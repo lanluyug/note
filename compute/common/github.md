@@ -15,3 +15,24 @@ git push
 git clone git@github.com:lanluyug/note.git
 ```
 
+> 拉取最新的代码
+
+```
+Git pull
+```
+
+> 查看添加日志
+
+```
+git log
+```
+
+> 初始化仓库
+
+```
+mkdir git-tutorial
+cd git tutorial
+git init
+```
+
+> 执行成功后，会生成.git目录。
